@@ -1,0 +1,14 @@
+{
+  "name": "sandcat-it/html-forms-altcha-integration",
+  "description": "ALTCHA integration for HTML forms",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0",
+    "altcha-org/altcha": "^2.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}
