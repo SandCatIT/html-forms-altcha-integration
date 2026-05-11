@@ -1,5 +1,5 @@
 {
-  "name": "sandcat-it/html-forms-altcha-integration",
+  "name": "sandcatit/html-forms-altcha-integration",
   "description": "ALTCHA integration for HTML forms",
   "type": "wordpress-plugin",
   "require": {
