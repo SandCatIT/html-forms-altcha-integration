@@ -3,7 +3,7 @@
   "description": "ALTCHA integration for HTML forms",
   "type": "wordpress-plugin",
   "require": {
-    "composer/installers": "~1.0",
+    "composer/installers": "^2.2",
     "altcha-org/altcha": "^2.0"
   },
   "config": {

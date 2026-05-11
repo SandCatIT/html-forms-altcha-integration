@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'www-data/html-forms-altcha-integration',
+        'name' => 'sandcatit/html-forms-altcha-integration',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'ffcb7350801bd3f497434ad65cecb8d457a5d068',
+        'reference' => 'aad4f5911b787fdd02845d705966253378e898b0',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,30 +20,18 @@
             'dev_requirement' => false,
         ),
         'composer/installers' => array(
-            'pretty_version' => 'v1.12.0',
-            'version' => '1.12.0.0',
-            'reference' => 'd20a64ed3c94748397ff5973488761b22f6d3f19',
+            'pretty_version' => 'v2.3.0',
+            'version' => '2.3.0.0',
+            'reference' => '12fb2dfe5e16183de69e784a7b84046c43d97e8e',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/./installers',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'roundcube/plugin-installer' => array(
-            'dev_requirement' => false,
-            'replaced' => array(
-                0 => '*',
-            ),
-        ),
-        'shama/baton' => array(
-            'dev_requirement' => false,
-            'replaced' => array(
-                0 => '*',
-            ),
-        ),
-        'www-data/html-forms-altcha-integration' => array(
+        'sandcatit/html-forms-altcha-integration' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'ffcb7350801bd3f497434ad65cecb8d457a5d068',
+            'reference' => 'aad4f5911b787fdd02845d705966253378e898b0',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
