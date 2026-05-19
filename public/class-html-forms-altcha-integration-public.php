@@ -120,6 +120,7 @@ class Html_Forms_Altcha_Integration_Public {
 			(string) filemtime( $path ),
 			array(
 				'in_footer' => true,
+				'strategy'  => 'async',
 			)
 		);
 

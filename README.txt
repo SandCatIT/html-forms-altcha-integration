@@ -18,5 +18,8 @@ Add server powered altcha integration to your HTML Forms plugin.
 
 == Changelog ==
 
+= 1.0.2 =
+* Changed to async script
+
 = 1.0.0 =
 * Initial commit
